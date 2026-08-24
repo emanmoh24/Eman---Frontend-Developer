@@ -429,6 +429,12 @@ h1 span {
 .contact-email span {
   color: var(--coral);
 }
+.contact-actions {
+  align-items: end;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 42px;
+}
 .contact-form {
   max-width: 850px;
 }
@@ -496,7 +502,7 @@ h1 span {
   font:
     12px "DM Mono",
     monospace;
-  padding: 17px 0 8px;
+  padding-bottom: 8px;
   text-transform: uppercase;
   transition:
     color 0.2s,
