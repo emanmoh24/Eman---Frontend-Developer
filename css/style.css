@@ -259,25 +259,50 @@ h1 span {
   padding-top: 14px;
 }
 .image-one {
-  background: var(--blue) url("../images/55602060d37c934ad4d7990ad0cbfff9.jpg")
+  background: var(--blue) url("../images/ab35901aa9a628aff8d47cd66cd3b7a4.jpg")
     center/cover;
 }
 
 .image-one:hover {
+  background: url("../images/Screenshot\ 2026-11-19\ 151052.png") center/cover;
+}
+
+.image-two {
+  background: var(--blue) url("../images/55602060d37c934ad4d7990ad0cbfff9.jpg")
+    center/cover;
+}
+
+.image-two:hover {
   background: url("../images/Screenshot\ 2026-11-19\ 145100.png") center/cover;
 }
-.image-two {
-  background: var(--acid) url("../images/Screenshot\ 2026-08-24\ 132843.png")
-    center/cover;
-}
+
 .image-three {
-  background: var(--coral) url("../images/Screenshot\ 2026-08-24\ 134029.png")
-    center/cover;
+  background: var(--acid) url("../images/d93a34608aa556c9d3351cf7e2ba218d.jpg")
+  center/cover;
 }
+
+.image-three:hover {
+  background: url("../images/Screenshot\ 2026-11-19\ 145634.png") center/cover;
+}
+
 .image-four {
-  background: #e4d6ca url("../images/Screenshot\ 2026-08-24\ 134433.png")
-    center/cover;
+  background: var(--coral) url("../images/fdfb3f20e0fa7b22e257056efb4f0f61.jpg")
+  center/cover;
 }
+
+.image-four:hover {
+  background: url("../images/Screenshot\ 2026-11-19\ 150401.png") center/cover;
+}
+
+.image-five {
+  background: #e4d6ca url("../images/bfb6469a7f2e00d9fb11dd003a9f9f72.jpg")
+  center/cover;
+}
+
+.image-five:hover {
+  background: url("../images/Screenshot\ 2026-11-19\ 150811.png") center/cover;
+}
+
 .project-stamp {
   background: var(--paper);
   font:
