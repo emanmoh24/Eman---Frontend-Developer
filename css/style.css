@@ -259,8 +259,12 @@ h1 span {
   padding-top: 14px;
 }
 .image-one {
-  background: var(--blue) url("../images/Screenshot\ 2026-08-24\ 132702.png")
+  background: var(--blue) url("../images/55602060d37c934ad4d7990ad0cbfff9.jpg")
     center/cover;
+}
+
+.image-one:hover {
+  background: url("../images/Screenshot\ 2026-11-19\ 145100.png") center/cover;
 }
 .image-two {
   background: var(--acid) url("../images/Screenshot\ 2026-08-24\ 132843.png")
