@@ -225,7 +225,8 @@ h1 span {
 }
 .project:hover .project-overlay,
 .project:focus-visible .project-overlay {
-  opacity: 0.96;
+  /* opacity: 0.96; */
+  opacity: 0.7;
   transform: translateY(0);
   visibility: visible;
 }
@@ -301,6 +302,15 @@ h1 span {
 
 .image-five:hover {
   background: url("../images/Screenshot\ 2026-11-19\ 150811.png") center/cover;
+}
+
+.image-six {
+  background: #e4d6ca url("../images/3c150dd361bd783cb8c01bc7a22a5978.jpg")
+  center/cover;
+}
+
+.image-six:hover {
+  background: url("../images/Screenshot\ 2026-08-24\ 152318.png") center/cover;
 }
 
 .project-stamp {
