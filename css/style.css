@@ -193,7 +193,7 @@ h1 span {
   display: block;
 }
 .project-small {
-  margin-top: 180px;
+  margin-top: 0;
 }
 .project-image {
   aspect-ratio: 1.18;
